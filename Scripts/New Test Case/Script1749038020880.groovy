@@ -23,3 +23,9 @@ WebUI.comment('')
 
 WebUI.openBrowser('')
 
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
+WebUI.acceptAlert()
+
